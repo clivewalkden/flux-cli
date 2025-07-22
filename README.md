@@ -8,6 +8,13 @@ Flux: a Magento patch config cleaner
 
 - Cleans up Magento patch configurations
 
+## Installation
+
+Install the homebrew tap from my [homebrew-taps](https://github.com/clivewalkden/homebrew-taps) repo.
+
+Then run:
+`brew install clivewalkden/taps/flux`
+
 ## Usage
 
 ```
